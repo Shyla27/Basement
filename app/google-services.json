@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32151890397",
+    "firebase_url": "https://basement-372ef.firebaseio.com",
+    "project_id": "basement-372ef",
+    "storage_bucket": "basement-372ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32151890397:android:4578c016abfcb526792e34",
+        "android_client_info": {
+          "package_name": "com.example.myapplication.basement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32151890397-b1e3jttcgpss5vbeurgkbd6mlqplu5dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJW7JviM4y0lMBY4LhkrgKUSdb2SZWi9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32151890397-b1e3jttcgpss5vbeurgkbd6mlqplu5dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
